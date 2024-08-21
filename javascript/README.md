@@ -6,7 +6,9 @@ Se ainda não fez isso, você precisa iniciar um projeto Node.js e instalar as d
 ```
 npm init -y
 ```
-# Instale o Jest como dependência de desenvolvimento
+# Instale o Jest
+
+aaaa como dependência de desenvolvimento
 ```
 npm install --save-dev jest
 ```
