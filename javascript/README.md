@@ -29,3 +29,11 @@ No package.json, adicione uma seção "scripts" se ainda não existir:
   "test": "jest"
 }
 
+
+# rodando todos os testes
+
+`npm run test`
+
+# rodando teste de arquivos especificos
+
+`npm test path`
