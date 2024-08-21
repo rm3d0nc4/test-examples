@@ -8,6 +8,8 @@ npm init -y
 ```
 # Instale o Jest como dependência de desenvolvimento
 ```
+
+AAAAA
 npm install --save-dev jest
 ```
 Se você preferir usar yarn, o comando seria:
