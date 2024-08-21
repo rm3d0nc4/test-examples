@@ -1,7 +1,7 @@
 {
   "name": "test-examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "Crie um Projeto Node.js e Instale Dependências",
   "main": "math.js",
   "scripts": {
     "test": "jest"
